@@ -4,7 +4,8 @@
   "private": true,
   "description": "front-end demo app for Apollo's lift-off III course",
   "engines": {
-    "node": "16.14"
+    "node": "16.14",
+    "npm": "8.5"
   },
   "dependencies": {
     "@apollo/client": "^3.3.6",
